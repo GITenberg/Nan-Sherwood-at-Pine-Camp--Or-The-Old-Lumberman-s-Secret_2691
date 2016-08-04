@@ -1,0 +1,24 @@
+_repo: Nan-Sherwood-at-Pine-Camp--Or-The-Old-Lumberman-s-Secret_2691
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Carr, Annie Roe
+    gutenberg_agent_id: '1000'
+    url: http://www.gutenberg.org/2009/agents/1000
+description: ''
+gutenberg_bookshelf: Children's Book Series
+gutenberg_issued: '2001-07-01'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '2691'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Michigan -- Juvenile fiction'
+- !lcsh 'Detective and mystery stories'
+- !lcc 'PZ'
+- GITenberg
+title: Nan Sherwood at Pine Camp; Or, The Old Lumberman's Secret
+url: http://www.gutenberg.org/ebooks/2691
