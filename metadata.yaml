@@ -1,11 +1,16 @@
 _repo: Nan-Sherwood-at-Pine-Camp--Or-The-Old-Lumberman-s-Secret_2691
-_version: 0.1.0
+_version: 0.2.0
+covers:
+- cover_type: generated
+  image_path: cover.png
 creator:
   author:
     agent_name: Carr, Annie Roe
     gutenberg_agent_id: '1000'
     url: http://www.gutenberg.org/2009/agents/1000
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/2691#Nan-Sherwood-at-Pine-Camp--Or-The-Old-Lumberman-s-Secret
 gutenberg_bookshelf: Children's Book Series
 gutenberg_issued: '2001-07-01'
 gutenberg_type: Text
